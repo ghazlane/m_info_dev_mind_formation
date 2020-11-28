@@ -1,0 +1,9 @@
+{
+  "build": {
+    "type": "gradle",
+    "goal": "assemble"
+  },
+  "deploy": {
+    "jarName": "./build/libs/web_project_ghazlane-0.0.1-SNAPSHOT.jar"
+  }
+}
