@@ -1,6 +1,6 @@
 {
   "build": {
-    "type": "gradle",
+    "type": "gradlew",
     "goal": "assemble"
   },
   "deploy": {
